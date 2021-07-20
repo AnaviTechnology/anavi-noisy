@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name anavi-noisy-rescue)(type Legacy)(uri ${KIPRJMOD}/anavi-noisy-rescue.lib)(options "")(descr ""))
+  (lib (name PKM13EPYH4000-A0)(type Legacy)(uri ${KIPRJMOD}/PKM13EPYH4000-A0.lib)(options "")(descr ""))
+)
